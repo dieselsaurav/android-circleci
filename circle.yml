@@ -1,6 +1,6 @@
 general:
-    artifacts:
-        - /home/ubuntu/replay-android/replay-android/build/outputs/reports/androidTests/connected
+  artifacts:
+    - /home/ubuntu/android-circleci/build/outputs/reports/androidTests/connected
 
 machine:
   environment:
